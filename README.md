@@ -1,4 +1,4 @@
-# CRUD com Node.js, Express, Neon db, Prisma ORM e Cors.
+# CRUD com Node.js, Express, Neon db, Prisma ORM e Cors
 
 Este projeto é um sistema básico de CRUD (Create, Read, Update, Delete) desenvolvido com Node.js, Express e MongoDB. Ele permite criar, listar, atualizar e deletar registros no banco de dados.
 
